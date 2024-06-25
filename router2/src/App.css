@@ -1,0 +1,21 @@
+.top{
+  text-align: center;
+  display: flex;
+  margin-left:50% ;
+  justify-content: space-between;
+  
+ 
+  
+}
+.top1{
+  /* text-align: center;
+  margin-left:-80% ;
+  padding :3%; */
+
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+
+

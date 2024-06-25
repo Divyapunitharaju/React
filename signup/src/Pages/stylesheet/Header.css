@@ -1,0 +1,28 @@
+.top{
+ position: relative;
+    
+}
+button.Signup{
+  position: absolute;
+  top:0;
+  right:0;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+button  {
+    position: absolute;
+    top: 0px;
+    right: 60px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+/* .login{
+    position: absolute;
+    top: 0;
+    right: 40;
+}
+.Signup{
+  position: absolute;
+  top:0;
+  right:0;
+} */
